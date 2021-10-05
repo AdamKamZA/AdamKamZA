@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Adam Kaminski
+<h1> Hey <img src "https://github.com/AdamKamZA/AdamKamZA/blob/main/gitGIF.gif">, I’m Adam Kaminski </h1>
 > I’m a lover of code and its possibilities to create something from nothing  <br>
   I’m currently learning Web app development with Python and Javascript
 
