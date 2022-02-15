@@ -12,8 +12,9 @@
 
 <div align="center">
   <h2> What am I doing right now? </h2>  
-    - Learning React.js along with web app development <br>
-    - In my 2<sub>nd</sub> year of a Bachelor of Computing degree at <a href="https://www.belgiumcampus.ac.za/bachelor-of-computing/" target="__blank">Belgium Campus</a><br>
+    - Exploring multiple languages (R, Haskell and the classics: Java, C#) <br>
+  - Currently Busy with Machine Learning in class
+    - In my 3<sub>rd</sub> year of a Bachelor of Computing degree at <a href="https://www.belgiumcampus.ac.za/bachelor-of-computing/" target="__blank">Belgium Campus</a><br>
   
 </div>
 
