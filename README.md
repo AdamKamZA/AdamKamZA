@@ -13,7 +13,7 @@
 <div align="center">
   <h2> What am I doing right now? </h2>  
     - Exploring multiple languages (R, Haskell and the classics: Java, C#) <br>
-    - Currently working on Machine Learning Algorithms <br>
+    - Currently studying Distributed Database theory at university <br>
     - In my 3rd year of a Bachelor of Computing degree at <a href="https://www.belgiumcampus.ac.za/bachelor-of-computing/" target="__blank">Belgium Campus</a><br>
   
 </div>
