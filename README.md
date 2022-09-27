@@ -1,7 +1,7 @@
 <div align="center">
   <img src="hiGIF.gif" width="400px">
   <h1> I’m Adam Kaminski </h1>
-  <p> A lover of code, its possibilities <i>and a bit of coffee</i>. <br>
+  <p> A lover of code, its possibilities and <i>a bit of coffee</i>. <br>
     A learner, team-player, team-leader and an optimistic go-getter! <br>
     Take a look around, get comfy, coffee?
   </p>
@@ -12,11 +12,9 @@
 
 <div align="center">
   <h2> What am I doing right now? </h2>  
-    - Exploring multiple languages (R, Haskell and the classics: Java, C#) <br>
-    - Currently studying Operations Research <br>
-    - In my 3rd year of a Bachelor of Computing degree at <a href="https://www.belgiumcampus.ac.za/bachelor-of-computing/" target="__blank">Belgium Campus</a><br>
+    - I recently launched my own blog, <a href="https://blog-adam-kaminski.web.app/" target="__blank">AK Blog - Software Development</a><br>
+    - In my 3rd year of a Bachelor of Computing degree at <a href="https://www.belgiumcampus.ac.za/bachelor-of-computing/" target="__blank">Belgium Campus</a>, majoring in Software Engineering<br>
     - Continually contributing to <a href = "https://github.com/bcgrahn/The_Phisherman" target = "__blank">The Phiserman's Joust</a>, a project conducted at the <a href="https://bbdsoftware.com/?gclid=CjwKCAjwoMSWBhAdEiwAVJ2ndnKLI051kakj-VPA_IXftPixk6kd0I6_Mer2UzDZOBToECrfFQxPvxoCi18QAvD_BwE" target="__blank">BBD</a> bursar week.
-  
 </div>
 
 <!---
